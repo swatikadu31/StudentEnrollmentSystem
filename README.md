@@ -50,18 +50,9 @@ Course
 ---
 
 ## 📁 Project Structure
+![image](https://github.com/user-attachments/assets/22c18e26-8eb1-404f-bf7b-3df42dfede43)
 
-src/
-└── main/
-├── java/
-│ └── com.code2java.enroll
-│ ├── models/
-│ ├── controllers/
-│ ├── services/
-│ ├── repository/
-│ └── EnrollApplication.java
-└── resources/
-├── application.properties
+
 
 ---
 
